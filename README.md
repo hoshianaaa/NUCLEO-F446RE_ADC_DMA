@@ -1,3 +1,3 @@
 # NUCLEO-F446RE_ADC_DMA
 ADC in PC0 and PC1 pin
-use DMA 
+
